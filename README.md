@@ -10,7 +10,7 @@ Bienvenue sur ma page github, je suis un jeune développeur web  en constante re
 
 Je suis à la recherche d'un stage de 2 mois au sein d'une entreprise qui saura m'accompagner dans ma démarche d'apprentissage.
 
-me contacter ici ! 👇 
+ 👇 me contacter ici ! 👇 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-marie-lator-74543a202/) 
