@@ -6,11 +6,11 @@
 # 💫About Me :
 Hi, i'm looking forward to learn more about best practice in web developpement, send me a message so we can work and learn together !
 -------------------------------------------------------------------------------------------------------------------------------------
-Bienvenue sur ma page github, je suis un jeune développeur web  en constante recherche d'amélioration 🤞, je suis une formation de concepteur, développeur web à l'AFPA de paris afin d'obtenir la certification qui y est liée (bac+3).
+Bienvenue sur ma page github, je suis un jeune développeur web  en constante recherche d'amélioration 🤞, actuellement en formation de concepteur, développeur web à l'AFPA de Paris afin d'obtenir une certification  (bac+3).
 
 Je suis à la recherche d'un stage de 2 mois au sein d'une entreprise qui saura m'accompagner dans ma démarche d'apprentissage.
 
- 👇 me contacter ici ! 👇 
+ 👇 Me contacter ici ! 👇 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-marie-lator-74543a202/) 
