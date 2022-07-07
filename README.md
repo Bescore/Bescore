@@ -4,7 +4,7 @@
 
 
 # 💫About Me :
-Hi, i'm looking forward to learn more about best practice in web developpement, send me a message so we can work and learn together !
+Hi, i'm looking forward to learn more about best practice in web development, send me a message so we can work and learn together !
 -------------------------------------------------------------------------------------------------------------------------------------
 Bienvenue sur ma page github, je suis un jeune développeur web  en constante recherche d'amélioration 🤞, actuellement en formation de concepteur, développeur web à l'AFPA de Paris afin d'obtenir une certification  (bac+3).
 
