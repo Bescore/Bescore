@@ -28,8 +28,6 @@ Je suis à la recherche d'un stage de 2 mois au sein d'une entreprise qui saura 
 ### ✍️Random Dev Quote?
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bescore&icon=8&color=6)](https://visitcount.itsvg.in)
 
