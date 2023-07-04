@@ -28,8 +28,6 @@ Bienvenue sur ma page github, je suis un jeune développeur web en constante rec
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bescore&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bescore&icon=7&color=0)](https://visitcount.itsvg.in)
