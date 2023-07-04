@@ -4,7 +4,7 @@
 
 
 # 💫About Me :
-Hi, i'm looking forward to learn more about best practice in web development, send me a message so we can work and learn together !
+Hi, i'm looking forward to learn more about best practice in web development, send me a message so we can work and learn together.I' am looking for an internship, get in touh with me !
 -------------------------------------------------------------------------------------------------------------------------------------
 Bienvenue sur ma page github, je suis un jeune développeur web en constante recherche d'amélioration 🤞, je suis une formation continue avec l'école o'clock.<br><br>Je suis à la recherche d'un stage de 2 mois minimum pouvant aller jusqu'a 6 mois , gratification non obligatoire, pour valider ma certification.<br><br>👇 Me contacter ici ! 👇
 
